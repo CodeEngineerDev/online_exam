@@ -24,3 +24,6 @@ venv/
 # System files
 .DS_Store
 Thumbs.db
+
+# Local database backup - do not upload to GitHub
+online_exam_backup.sql
