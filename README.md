@@ -66,3 +66,4 @@ Root convenience commands are `npm run dev:api`, `npm run dev:web`, `npm run bui
 - `GET /api/results`
 
 Correct answers are excluded from question responses and used only by the API when grading. This project has no authentication or role permissions and is for learning and demonstration, not high-stakes examinations or production use without security hardening.
+Jenkins deployment test
